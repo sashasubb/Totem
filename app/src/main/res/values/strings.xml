@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Totem</string>
+    <string name="about">ABOUT</string>
+    <string name="hold_to_start">HOLD BUTTON TO START</string>
+    <string name="exploring">EXPLORING</string>
+    <string name="try_again">Try Again</string>
+
+    <string name="policy">Privacy Policy</string>
+
+    <string name="result">WOLF</string>
+    <string name="result_text">Represents loyalty, strong family ties, good\ncommunication, education, understanding,\nand intelligence. Of all land animals, the\n
+        Wolf has the strongest supernatural\npowers and is the most accomplished\nhunter.</string>
+    <string name="share">SHARE</string>
+
+    <string name="app_date">25.02.2020</string>
+
+</resources>
